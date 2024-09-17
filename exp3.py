@@ -25,3 +25,7 @@ print("The listed salaries:", l1)
 
 # Print the sorted list of salaries
 print('The stored salaries are:', sorted(l1))
+
+
+
+"navyaa marri"
